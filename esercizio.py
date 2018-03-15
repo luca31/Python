@@ -6,7 +6,7 @@ nome = input("Come ti chiami? ")
 if nome.lower() == "luca":
   print("Quindi sei il mio padrone?")
   print("Sei sempre stato il mio preferito")
-  print("Normalmente sarei programmato per chiedere l'età ma con te farò un'eccezzione")
+  print("Normalmente sarei programmato per chiedere l'età ma con te farò un'eccezione")
   print("Non potrei mai dimenticare il compleanno del mio caro pardrone")
   anni = 15
 else:
