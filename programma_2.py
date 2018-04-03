@@ -1,6 +1,6 @@
 print("AVVENTURA TESTUALE")
 nome = input("inserisci il tuo nome:   ")
-print("era una normale giarnata di primavera quando al tg si sente una tragica notizia.")
+print("era una normale giornata di primavera quando al tg si sente una tragica notizia.")
 print("una bomba atomica è esplosa nel nord italia")
 print("subito dopo questa notizia la gente comincia a fare le valigie e allontanarsi più possibile.")
 print()
